@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dhbluwmnucep7"]
+
+[ext_resource type="AudioStream" uid="uid://dnp0d8k7dqggp" path="res://music/Undertale OST： 014 - Heartache.mp3" id="1_ngk6b"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_ngk6b")
+autoplay = true
